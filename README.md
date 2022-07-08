@@ -32,5 +32,8 @@ https://github.com/SpaceyLad/upEnu.py/blob/main/Examples
 * Implement prompt mode [Easy mode] (Maybe with Ascii art?)
 * Implement a wordlist creation mode [Make a file from explore mode]
 
+# Website
+I also created a little website to use this on. Feel free to download it and try it out for yourself!
+Tested with Studio Studio Code.
 # Why did I make this?
 Because Python is fun, and this is a great exercise to improve <3
