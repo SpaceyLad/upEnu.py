@@ -1,4 +1,4 @@
-# Username and Password Enumeration example
+## Username and Password Enumeration example
 
 python3 upEnu.py -u http://10.0.0.x:xx/login/ -U -P
                                                                                                                                                            
@@ -11,7 +11,7 @@ All Password  mentions:
 17. <inputtype="password"id="pass"value="passord123"class="login-forms"><br><br>
 38. varp="Password";
 
-# Explore mode example
+## Explore mode example
 python3 upEnu.py -u http://10.0.0.x:xx/ -e 
 
 Javascripts found for http://10.0.0.x:xx/:                                                                                                                 
@@ -24,7 +24,7 @@ http://10.0.0.x:xx/secret/variables.js
 http://10.0.0.x:xx/js/animation.js
 http://10.0.0.x:xx/secret/smiley.js
 
-# Full scan
+## Full scan
 python3 upEnu.py -u http://10.0.0.x:xx/login/ -e -A
 
 Javascripts found for http://10.0.0.x:xx/login/:                                                                                                           
@@ -103,7 +103,7 @@ All comments:
 20.       Hope it is usefull for someone else! :]
 21. */
 
-# Search Mode
+## Search Mode
 python3 upEnu.py -u http://10.0.0.x:xx/login/ -e -S sText
 
 Javascripts found for http://10.0.0.x:xx/login/:
