@@ -5,7 +5,7 @@ A tool created to speed up the enumeration process when scanning a website.
 The script will look through the website and print out the line and line number where it finds mentions of what we are looking for and print out the result so the user easly can get an idea of how the website works and maybe even get a clue where to look.
 This is usefull on very large websited with a lot of information. But as usual, it is worth taking a look on the website and adjusting the filters get better results.
 ## How does it work?
-###### paths:
+###### Paths:
 The script demands a path to work with. You can give this to the script with a --url [-u] or --wordlist [-w] containing the urls seperated with \n.
 ###### Arguments:
 The script also demands an argument (Except if explore mode is active.). Make sure to read the help [-h] to see all options, or run all [-A] to try them all.
@@ -35,6 +35,6 @@ https://github.com/SpaceyLad/upEnu.py/blob/main/Examples
 
 
 ## Todo:
-Implement verbose mode
-Implement oneline mode
-Implement prompt mode [Easy mode] (Maybe with Ascii art?)
+* Implement verbose mode
+* Implement oneline mode
+* Implement prompt mode [Easy mode] (Maybe with Ascii art?)
