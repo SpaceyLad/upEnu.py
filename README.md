@@ -1,5 +1,15 @@
 # upEnu.py - Username & Password enumeration
 
+
+╱╱╱╱╱╱╭━━━╮
+╱╱╱╱╱╱┃╭━━╯
+╭╮╭┳━━┫╰━━┳━╮╭╮╭╮╭━━┳╮╱╭╮
+┃┃┃┃╭╮┃╭━━┫╭╮┫┃┃┃┃╭╮┃┃╱┃┃
+┃╰╯┃╰╯┃╰━━┫┃┃┃╰╯┣┫╰╯┃╰━╯┃
+╰━━┫╭━┻━━━┻╯╰┻━━┻┫╭━┻━╮╭╯
+╱╱╱┃┃╱╱╱╱╱╱╱╱╱╱╱╱┃┃╱╭━╯┃
+╱╱╱╰╯╱╱╱╱╱╱╱╱╱╱╱╱╰╯╱╰━━╯
+
 This program is for CTF players. Do not use this script on websites and domains you do not own or have permission to scan.
 
 ## What is this?
@@ -34,6 +44,9 @@ python3 upEnu.py -u http://10.0.0.x:xx/login/ -e -S sText
 
 ###### Check result examples here.
 https://github.com/SpaceyLad/upEnu.py/blob/main/Examples
+
+![image](https://user-images.githubusercontent.com/87969837/177986066-191b30c0-c505-46c3-af29-3ec7f4eb9cb3.png)
+
 
 ## Todo:
 Implement verbose mode
