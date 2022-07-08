@@ -1,5 +1,5 @@
 # upEnu.py - Username & Password enumeration
-This program is for CTF players. Do not use this script on websites and domains you do not own or have permission to scan.
+This script is for CTF players. Do not use this script on websites and domains you do not own or have permission to scan.
 ## What is this?
 A tool created to speed up the enumeration process when scanning a website.
 The script will look through the website and print out the line and line number where it finds mentions of what we are looking for and print out the result so the user easily can get an idea of how the website works and maybe even get a clue where to look.
